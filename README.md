@@ -5,6 +5,7 @@ Hi there 👋
 
 🤔 I’m looking for help with python tracebacks
 
+✅ Worked a little with MATLAB
 
 💬 Ask me about python
 
