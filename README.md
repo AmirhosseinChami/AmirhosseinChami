@@ -10,7 +10,7 @@
 
 
 - 🎯 **Im currently working on programming Embedded systems : ARM & ESP(IOT)**
-- 📘 **Im learning Python, Ml, AI**
+- 📘 **Im learning Python**
 
 ### 🧰 Languages and Tools:
 <hr/>
