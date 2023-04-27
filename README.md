@@ -21,6 +21,7 @@
 <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" height="25px"/> 
 <img alt="Altium-Designer" src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" height="25px"/>
 <img alt="Matlab" src="https://img.shields.io/badge/matlab-red.svg?style=for-the-badge" height="25px"/>
+<img alt="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25px"/>
 <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="25px"/> 
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" height="25px"/> 
