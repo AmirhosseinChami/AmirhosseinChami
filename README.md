@@ -6,7 +6,7 @@
 ### 🔎 About Me:
 <hr/>
 
-**I recently graduated with a bachelor's degree in electronics and electrical engineering. I am strongly interested in Telecommunication Engineering, IoT, Image Processing, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning and exploring its potential. I primarily program in Python and share my personal and university projects here.**
+**I recently graduated with a bachelor's degree in electronics and electrical engineering. I am strongly interested in Telecommunication Engineering, IoT, Image Processing, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning and exploring its potential. I primarily program in Python and Matlab and share my personal and university projects here.**
 
 
 - 📘 **Learning Deep Learning**
